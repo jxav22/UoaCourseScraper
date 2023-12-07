@@ -1,0 +1,1197 @@
+[
+    {
+        "Code": "",
+        "Title": "Language Study Abroad",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ACADENG",
+        "Title": "Academic English Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ACADINT",
+        "Title": "Academic Integrity",
+        "Faculty": "The University of Auckland"
+    },
+    {
+        "Code": "ACCTG",
+        "Title": "Accounting",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "AEROSPCE",
+        "Title": "Aerospace Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "ANCIENT",
+        "Title": "Classical Studies and Ancient History",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ANTHRO",
+        "Title": "Anthropology",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ARCHDES",
+        "Title": "Architectural Business Management Design",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "ARCHDRC",
+        "Title": "Architectural Media and Fabrication",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "ARCHGEN",
+        "Title": "Architecture \u2013 General",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "ARCHHTC",
+        "Title": "Architectural History, Theory and Criticism",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "ARCHPRM",
+        "Title": "Architectural Professional Studies",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "ARCHTECH",
+        "Title": "Architectural Technology and Sustainability",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "ARTHIST",
+        "Title": "Art History",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ARTSCHOL",
+        "Title": "Arts Scholars",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ARTSGEN",
+        "Title": "Arts General",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ASIAN",
+        "Title": "Asian Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ASTRO",
+        "Title": "Astrosciences",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "AUDIOL",
+        "Title": "Audiology",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "BIOENG",
+        "Title": "Bioengineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "BIOINF",
+        "Title": "Bioinformatics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "BIOMENG",
+        "Title": "Biomedical Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "BIOMED",
+        "Title": "Biomedical Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "BIOSCI",
+        "Title": "Biological Sciences",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "BIOSEC",
+        "Title": "Biosecurity and Conservation",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "BIOTECH",
+        "Title": "Biotechnology",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "BUSACT",
+        "Title": "Business Accounting",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSAN",
+        "Title": "Business Analytics",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSDEV",
+        "Title": "Business Development",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSHRM",
+        "Title": "Business Human Resource Management",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSFIN",
+        "Title": "Business Finance",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSINESS",
+        "Title": "Business",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSINFO",
+        "Title": "Business Information Analytics",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSINT",
+        "Title": "Business International",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSMAN",
+        "Title": "Business Management",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSMBA",
+        "Title": "Business MBA",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSMGT",
+        "Title": "Business Management",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSMKT",
+        "Title": "Business Marketing",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "BUSSCM",
+        "Title": "Business Supply Chain Management",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "CAREER",
+        "Title": "Career",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "CHEM",
+        "Title": "Chemistry",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "CHEMMAT",
+        "Title": "Chemical and Materials Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "CHINESE",
+        "Title": "Chinese",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "CIVIL",
+        "Title": "Civil Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "CLINED",
+        "Title": "Clinical Education",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "CLINIMAG",
+        "Title": "Clinical Imaging",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "COMLAW",
+        "Title": "Commercial Law",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "COMLAW",
+        "Title": "Commercial Law",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "COMMS",
+        "Title": "Communication",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "COMPLIT",
+        "Title": "Comparative Literature",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "COMPSCI",
+        "Title": "Computer Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "COMPSYS",
+        "Title": "Computer Systems Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "COOKIS",
+        "Title": "Cook Islands M\u0101ori",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "CREWRIT",
+        "Title": "Creative Writing",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "CRIM",
+        "Title": "Criminology",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "CTFOUND",
+        "Title": "University of Auckland Foundation Studies",
+        "Faculty": "The University of Auckland"
+    },
+    {
+        "Code": "DANCE",
+        "Title": "Dance Studies",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "DATASCI",
+        "Title": "Data Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "DESIGN",
+        "Title": "Design",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "DEVELOP",
+        "Title": "Development Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "DIETETIC",
+        "Title": "Dietetics",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "DIGIHLTH",
+        "Title": "Digital Health",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "DISABLTY",
+        "Title": "Disability Studies",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "DISMGT",
+        "Title": "Disaster Management",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "DRAMA",
+        "Title": "Drama",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "EARTHSCI",
+        "Title": "Earth Sciences",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "ECOLOG",
+        "Title": "Ecology",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "ECON",
+        "Title": "Economics",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "EDCURRM",
+        "Title": "Education Curriculum M\u0101ori",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDCURRPK",
+        "Title": "Education Curriculum Pasifika",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDCURSEC",
+        "Title": "Education Curriculum Secondary Diploma",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDCURRIC",
+        "Title": "Education Curriculum Studies",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPRAC",
+        "Title": "Education Practice",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPRACM",
+        "Title": "Education Practice M\u0101ori",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPRACPK",
+        "Title": "Education Practice Pasifika",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPROF",
+        "Title": "Education Professional",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPROFST",
+        "Title": "Education Professional Studies",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPROFM",
+        "Title": "Education Professional Studies M\u0101ori",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDPROFPK",
+        "Title": "Education Professional Studies Pasifika",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDUC",
+        "Title": "Education",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDUCM",
+        "Title": "Education M\u0101ori",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDUCN",
+        "Title": "Education Studies",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "EDUCSW",
+        "Title": "Education and Social Work",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "ELECTENG",
+        "Title": "Electrical and Electronic Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "ENERGY",
+        "Title": "Energy",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "ENGGEN",
+        "Title": "Engineering General",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "ENGLACP",
+        "Title": "English for Academic Purposes",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ENGLISH",
+        "Title": "English",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ENGSCI",
+        "Title": "Engineering Science",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "ENGWRIT",
+        "Title": "English Writing",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "ENVCHG",
+        "Title": "Environmental Change",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "ENVENG",
+        "Title": "Environmental Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "ENVMGT",
+        "Title": "Environmental Management",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "ENVPHYS",
+        "Title": "Environmental Physics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "ENVSCI",
+        "Title": "Environmental Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "EUROPEAN",
+        "Title": "European Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "EXERSCI",
+        "Title": "Exercise Sciences",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "FINANCE",
+        "Title": "Finance",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "FINEARTS",
+        "Title": "Fine Arts",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "FOODSCI",
+        "Title": "Food Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "FORENSIC",
+        "Title": "Forensic Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "FOUNDST",
+        "Title": "Foundation Studies",
+        "Faculty": "The University of Auckland"
+    },
+    {
+        "Code": "FRENCH",
+        "Title": "French",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "GENDER",
+        "Title": "Gender Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "GISCI",
+        "Title": "Geographic Information Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "GEOG",
+        "Title": "Geography",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "GEOPHYS",
+        "Title": "Geophysics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "GEOTHERM",
+        "Title": "Energy Technology",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "GERMAN",
+        "Title": "German",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "GLMI",
+        "Title": "Global Management and Innovation",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "GLOBAL",
+        "Title": "Global Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "GREEK",
+        "Title": "Greek",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "HEALTHED",
+        "Title": "Health Education",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "HERCONS",
+        "Title": "Heritage Conservation",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "HIGHED",
+        "Title": "Higher Education",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "HISTORY",
+        "Title": "History",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "HLTHINFO",
+        "Title": "Health Informatics",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "HLTHMGT",
+        "Title": "Health Management",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "HLTHPSYC",
+        "Title": "Health Psychology",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "HLTHSCI",
+        "Title": "Health Sciences",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "HUMS",
+        "Title": "Humanities",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "HUMSERV",
+        "Title": "Human Services",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "INDIGEN",
+        "Title": "Indigenous Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "INFOGOV",
+        "Title": "Information Governance",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "INFOMGMT",
+        "Title": "Information Management",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "INFOSYS",
+        "Title": "Information Systems",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "INNOVENT",
+        "Title": "Innovation and Entrepreneurship",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "INTBUS",
+        "Title": "International Business",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "INTERNSP",
+        "Title": "Internship",
+        "Faculty": "The University of Auckland"
+    },
+    {
+        "Code": "ITALIAN",
+        "Title": "Italian",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "JAPANESE",
+        "Title": "Japanese",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "JUR",
+        "Title": "Juridical Science (Pending CUAP approval)",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "KOREAN",
+        "Title": "Korean",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "LANGTCHG",
+        "Title": "Language Teaching and Learning",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "LATIN",
+        "Title": "Latin",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "LATINAM",
+        "Title": "Latin American Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "LAW",
+        "Title": "Law",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "LAWCOMM",
+        "Title": "Law Commercial",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "LAWENVIR",
+        "Title": "Law Environmental",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "LAWGENRL",
+        "Title": "Law General",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "LAWHONS",
+        "Title": "Law Honours",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "LAWPUBL",
+        "Title": "Law Public",
+        "Faculty": "Law"
+    },
+    {
+        "Code": "LDGOV",
+        "Title": "Leadership and Governance",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "LINGUIST",
+        "Title": "Linguistics",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "LOGICOMP",
+        "Title": "Logic and Computation",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "M\u0100ORI",
+        "Title": "M\u0101ori Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "MAORIDEV",
+        "Title": "M\u0101ori Development",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "MAORIHTH",
+        "Title": "M\u0101ori Health",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "MARINE",
+        "Title": "Marine Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "MATHS",
+        "Title": "Mathematics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "MBCHB",
+        "Title": "MBChB",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "MECHENG",
+        "Title": "Mechanical Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "MECHTRON",
+        "Title": "Mechatronics Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "MEDIA",
+        "Title": "Media and Screen Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "MEDIMAGE",
+        "Title": "Medical Imaging",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "MEDICINE",
+        "Title": "Medicine",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "MEDSCI",
+        "Title": "Medical Science",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "MGMT",
+        "Title": "Management",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "MKTG",
+        "Title": "Marketing",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "MUS",
+        "Title": "Music",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "MUSEUMS",
+        "Title": "Museums and Cultural Heritage",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "NURSING",
+        "Title": "Nursing",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "NURSPRAC",
+        "Title": "Nursing Practice",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "OBSTGYN",
+        "Title": "Obstetrics and Gynaecology",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "OPHTHAL",
+        "Title": "Ophthalmology",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "OPSMGT",
+        "Title": "Operations and Supply Chain Management",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "OPTOM",
+        "Title": "Optometry and Vision Science",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "PACIFIC",
+        "Title": "Pacific Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "PAEDS",
+        "Title": "Paediatrics",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "PHARMACY",
+        "Title": "Pharmacy",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "PHARMCOL",
+        "Title": "Pharmacology",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "PHIL",
+        "Title": "Philosophy",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "PHYSED",
+        "Title": "Physical Education",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "PHYSICS",
+        "Title": "Physics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "PHYSIOL",
+        "Title": "Physiology",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "POLICY",
+        "Title": "Public Policy",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "POLITICS",
+        "Title": "Politics and International Relations",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "POLYMER",
+        "Title": "Polymer Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "POPLHLTH",
+        "Title": "Population Health",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "POPLPRAC",
+        "Title": "Population Health Practice",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "PROFCOUN",
+        "Title": "Professional Counselling",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "PROFSUPV",
+        "Title": "Professional Supervision",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "PROPERTY",
+        "Title": "Property",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "PROPPRAC",
+        "Title": "Property Practice",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "PSYCH",
+        "Title": "Psychology",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "PSYCHOL",
+        "Title": "Psychology",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "PSYCHIAT",
+        "Title": "Psychiatry",
+        "Faculty": "Medical and Health Sciences"
+    },
+    {
+        "Code": "P\u016aTAIAO",
+        "Title": "P\u016btaiao",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "REGDEV",
+        "Title": "Regional Development",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "REGDEV",
+        "Title": "Regional Development",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "RUSSIAN",
+        "Title": "Russian",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SAMOAN",
+        "Title": "Samoan",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SCIENT",
+        "Title": "Science Enterprise",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "SCIGEN",
+        "Title": "Science General",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "SCIGEN",
+        "Title": "Science Scholars",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "SCREEN",
+        "Title": "Screen Production",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SOCCHFAM",
+        "Title": "Social Work Child and Family Practice",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "SOCCLEAD",
+        "Title": "Social and Community Leadership",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "SOCHLTH",
+        "Title": "Social Work Health Practice",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "SOCIOL",
+        "Title": "Sociology",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SOCSCIPH",
+        "Title": "Social Science for Public Health",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SOCSCRES",
+        "Title": "Social Science Research Methods",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SOCWORK",
+        "Title": "Social Work",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "SOCYOUTH",
+        "Title": "Social Work Youth Practice",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "SOFTENG",
+        "Title": "Software Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "SPANISH",
+        "Title": "Spanish",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "SPCHSCI",
+        "Title": "Speech Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "SPORT",
+        "Title": "Sport Studies",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "SPORTHPE",
+        "Title": "Sport, Health and Physical Education",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "STATS",
+        "Title": "Statistics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "STRCTENG",
+        "Title": "Structural Engineering",
+        "Faculty": "Engineering"
+    },
+    {
+        "Code": "SUSTAIN",
+        "Title": "Sustainability",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "TDDEM",
+        "Title": "Democracy in the 21st Century",
+        "Faculty": "Transdisciplinary (Arts)"
+    },
+    {
+        "Code": "TDENVF",
+        "Title": "Our Environmental Futures: Te Taiao T\u0101ngata",
+        "Faculty": "Transdisciplinary (Science)"
+    },
+    {
+        "Code": "TFCACENG",
+        "Title": "Tertiary Foundation Certificate Academic English Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCARTS",
+        "Title": "Tertiary Foundation Certificate\u00a0Arts General",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCBIO",
+        "Title": "Tertiary Foundation Certificate\u00a0Biological Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "TFCBUS",
+        "Title": "Tertiary Foundation Certificate\u00a0Business",
+        "Faculty": "Business and Economics"
+    },
+    {
+        "Code": "TFCCAI",
+        "Title": "Tertiary Foundation Certificate\u00a0Creative Arts",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "TFCCHEM",
+        "Title": "Tertiary Foundation Certificate\u00a0Chemistry",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "TFCEDUC",
+        "Title": "Tertiary Foundation Certificate\u00a0Education",
+        "Faculty": "Education and Social Work"
+    },
+    {
+        "Code": "TFCENG",
+        "Title": "Tertiary Foundation Certificate\u00a0English",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCENV",
+        "Title": "Tertiary Foundation Certificate\u00a0Environmental Studies",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "TFCEWRIT",
+        "Title": "Tertiary Foundation Certificate\u00a0English Writing",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCHIST",
+        "Title": "Tertiary Foundation Certificate\u00a0History",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCMAORI",
+        "Title": "Tertiary Foundation Certificate\u00a0M\u0101ori",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCMATHS",
+        "Title": "Tertiary Foundation Certificate\u00a0Mathematics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "TFCPAC",
+        "Title": "Tertiary Foundation Certificate\u00a0Pacific Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCPHYS",
+        "Title": "Tertiary Foundation Certificate\u00a0Physics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "TFCSOCIO",
+        "Title": "Tertiary Foundation Certificate\u00a0Sociology",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TFCSTATS",
+        "Title": "Tertiary Foundation Certificate\u00a0Statistics",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "THEOLOGY",
+        "Title": "Theology",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "THEOREL",
+        "Title": "Theological and Religious Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TONGAN",
+        "Title": "Tongan",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "TRANSLAT",
+        "Title": "Translation Studies",
+        "Faculty": "Arts"
+    },
+    {
+        "Code": "URBDES",
+        "Title": "Urban Design",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "URBPLAN",
+        "Title": "Urban Planning",
+        "Faculty": "Creative Arts and Industries"
+    },
+    {
+        "Code": "WINESCI",
+        "Title": "Wine Science",
+        "Faculty": "Science"
+    },
+    {
+        "Code": "YOUTHWRK",
+        "Title": "Youth Work",
+        "Faculty": "Education and Social Work"
+    }
+]
