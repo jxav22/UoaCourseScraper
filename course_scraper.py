@@ -14,8 +14,8 @@ def extract_faculty_info():
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # Find all table rows except the first one (header row)
-        rows = soup.find_all('tr')[2:]
+        # Find all table rows except the first two (header row, blank code)
+        rows = soup.find_all('tr')[3:]
 
         faculty_info = []
 
@@ -108,5 +108,5 @@ def update_courses():
 
 # Call functions here
 
-# update_faculties()
-update_courses()
+update_faculties()
+# update_courses()
